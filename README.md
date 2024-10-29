@@ -1,2 +1,2 @@
-# Ingenieria Electronica-Tesis
+# Ingeniería electrónica
 Trabajo Final de Carrera
